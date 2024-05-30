@@ -1,0 +1,3 @@
+The syntax for comments in HTML is <!-- --> .
+
+The syntax for comments in CSS is /*. */ .
