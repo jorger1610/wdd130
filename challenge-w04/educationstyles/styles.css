@@ -1,0 +1,63 @@
+ol li {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: black;
+    list-style: decimal;
+    margin-left: 38%;
+}
+
+.indent-further {
+    text-indent: 25%;
+    font-size: 2.0em;
+}
+
+body {
+    background-color: steelblue;
+}
+
+a {
+    display: block;
+    font-size: 3.0em;
+    color: white;
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.0em;
+    color: white;
+}
+
+h2 {
+    text-indent: 20%;
+    font-size: 2.0em;
+    color: white;
+    margin-left: 30%;
+}
+
+
+img {
+    width: 13%;
+    display: block;
+    margin: 50px auto;
+}
+
+p {
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    color: black;
+    font-size: large;
+    
+}
+
+nav a:hover {
+    display: block;
+    background-color: steelblue;
+    color: black;
+}
